@@ -7,12 +7,12 @@
    * [markdown]() - [markdown cheatsheet](https://github.com/im-luka/markdown-cheatsheet)
     
  * c++ - to make it work
- * cmake - 
+ * [cmake](http://cmake.org) - generate build files
  * vckgp -
  * vulkan - 
  * vulkanSceneGraph -
  * Imgui -
- * GlSL -
+ * GLSL -
 
 
 ## markdown 
