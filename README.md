@@ -2,7 +2,7 @@
 ## woah
 
  this is my project to learn : 
- * [github](http:///www.github.com) - to create and manage repositories  Forum#2
+ * [github](http:///www.github.com) - to create and manage repositories  Forum #2
  * git - 
    * [markdown]() - [markdown cheatsheet](https://github.com/im-luka/markdown-cheatsheet)
     
