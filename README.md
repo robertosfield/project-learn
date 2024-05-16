@@ -17,8 +17,8 @@
 
 ## markdown 
 ##### type of lettering
-**bold**  __also bold__ (two asterisks either side or two under scores)
-*italic* _italic also_ ( between two askterisk or two under scores) 
+**bold**  __also bold__  (two asterisks either side or two under scores)
+*italic*  _italic also_ ( between two askterisk or two under scores) 
 **__can also combine_** 
 ~~two wibbly wobbly for mistakes~~
 
