@@ -2,14 +2,14 @@
 ## woah
 
  this is my project to learn : 
- * github
- * git
-   * markdown
- * c++
- * cmake
- * vckgp
- * vulkan
- * vulkanSceneGraph
- * Imgui
- * GlSL
+ * [github](http:///www.github.com) - to create and manage repositories  
+ * git - 
+   * markdown -
+ * c++ - to make it work
+ * cmake - 
+ * vckgp -
+ * vulkan - 
+ * vulkanSceneGraph -
+ * Imgui -
+ * GlSL -
 
