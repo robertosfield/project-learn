@@ -46,7 +46,13 @@
    2.  woah
 3. woah
    - woah
-     -  woah      
+     -  woah
+    
+#####  table
+| use long stick symbol | to seperate columns | and colon to align row content|
+|:----------------------|:-------------------:|------------------------------:|
+|left                   |center| right|
+
 
 
 
