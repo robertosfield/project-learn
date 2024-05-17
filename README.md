@@ -40,6 +40,14 @@
 + plus sign
 * asterisk
 
+###### mixed list
+1. woah
+   1.  can use tab to indent
+   2.  woah
+3. woah
+   - woah
+     -  woah      
+
 
 
 
