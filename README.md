@@ -64,7 +64,13 @@
 - [ ] square brackets must have space inside
 
 [Jump to Markdown](#Markdown) 
-
+ ```diff
+ - text in red
+ + text in green
+ ! text in orange
+ # text in gray
+ @@ text in purple (and bold)@@
+ ```
 can make line using asterisks dashes or underscore three times
 ***
 ---
