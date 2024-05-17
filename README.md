@@ -27,6 +27,19 @@
 
 ##### type of lists 
 ###### ordered
+1. use
+2. any
+3. number
+4. and
+5. a dot
+6. for
+7. this
+
+###### unordered
+- use dash
++ plus sign
+* asterisk
+
 
 
 
