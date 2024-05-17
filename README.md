@@ -57,9 +57,9 @@
 ###### check list 
 - [ ] use dash then square brackets
 - [x] if done have an x in square brackets
-- [g] woah
+- [ ] square brackets must have space inside
 
-
+[Jump to section with custom ID](#line-57)
 
 
 
