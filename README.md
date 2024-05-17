@@ -54,6 +54,12 @@
 |left                   |center| right|
 
 
+###### check list 
+-[] use dash then square brackets
+-[x] if done have an x in square brackets
+-[g] woah
+
+
 
 
 
