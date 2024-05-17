@@ -59,7 +59,12 @@
 - [x] if done have an x in square brackets
 - [ ] square brackets must have space inside
 
-[Jump to section with custom ID](#Markdown)
+[Jump to Markdown](#Markdown) 
+
+can make line using asterisks dashes or underscore three times
+***
+---
+___
 
 
 
