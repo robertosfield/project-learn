@@ -71,6 +71,8 @@
  # text in gray
  @@ text in purple (and bold)@@
  ```
+$${\color{red}Red}$$
+
 can make line using asterisks dashes or underscore three times
 ***
 ---
