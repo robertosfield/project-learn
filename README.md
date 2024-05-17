@@ -4,7 +4,7 @@
  this is my project to learn : 
  * [github](http:///www.github.com) - to create and manage repositories  Forum #2
  * git - 
-   * [markdown]() - [markdown cheatsheet](https://github.com/im-luka/markdown-cheatsheet)
+   * [markdown]() - [markdown cheatsheet](https://github.com/im-luka/markdown-cheatsheet) [useful practice](#Markdown) 
     
  * c++ - to make it work
  * [cmake](http://cmake.org) - generate build files
@@ -13,6 +13,10 @@
  * vulkanSceneGraph -
  * Imgui -
  * GLSL -
+
+***
+
+
 
 
 ## markdown 
