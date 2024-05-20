@@ -1,0 +1,8 @@
+# development setup
+export DEV_DIR=~/dev
+export DATA_DIR=~/data
+export INSTALL_DIR=~/install
+export VSG_FILE_PATH=${DEV_DIR}/vsgExamples/data
+export VSG_FILE_CACHE=${DATA_DIR}/vsgFileCache
+export LD_LIBRARY_PATH=~/install/lib:${LD_LIBRARY_PATH}
+export PATH=~/install/bin:${PATH}
