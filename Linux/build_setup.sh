@@ -1,5 +1,6 @@
 sudo apt-get install git gh g++ cmake-curses-gui cppcheck vulkan-tools vulkan-validationlayers
 sudo apt-get install libxcb1-dev libvulkan-dev libassimp-dev libfreetype-dev libcurl4-openssl-dev
+sudo apt-get install glslang-dev glslang-tools
 sudo apt-get install libgdal-dev libopenexr-dev
 sudo apt-get install qtbase5-dev qt5-qmake qtcreator
 sudo apt-get install git-lfs
