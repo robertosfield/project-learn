@@ -82,5 +82,13 @@ ___
 
 hello... **woah**
 
+#### using vsg example
+
+1. copy CMakeLists.txt and src/main.cpp into project-learn/example
+2. run CMake to create build system
+
+
+
+
 
 
