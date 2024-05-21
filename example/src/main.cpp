@@ -1,8 +1,5 @@
 #include <vsg/all.h>
-
-#ifdef vsgXchange_FOUND
 #include <vsgXchange/all.h>
-#endif
 
 #include <iostream>
 
@@ -10,7 +7,7 @@ int main(int argc, char** argv)
 {
     auto options = vsg::Options::create();
     auto windowTraits = vsg::WindowTraits::create();
-    windowTraits->windowTitle = "MyFirstVsgApplication";
+    windowTraits->windowTitle = "Learning C++";
 
     // set up defaults and read command line arguments to override them
     vsg::CommandLine arguments(&argc, argv);
@@ -24,10 +21,8 @@ int main(int argc, char** argv)
 
     if (arguments.errors()) return arguments.writeErrorMessages(std::cerr);
 
-#ifdef vsgXchange_all
     // add use of vsgXchange's support for reading and writing 3rd party file formats
     options->add(vsgXchange::all::create());
-#endif
 
     auto scene = vsg::Group::create();
 
