@@ -6,17 +6,17 @@
  * git - 
    * [markdown]() - [markdown cheatsheet](https://github.com/im-luka/markdown-cheatsheet) [useful practice](#Markdown) 
     
- * c++ - to make it work
+ * c++ - to make it work [video that may be helpful](https://www.youtube.com/watch?v=vLnPwxZdW4Y) [website that may be useful](https://www.learncpp.com/#google_vignette) [or](https://cplusplus.com/doc/tutorial/) 
  * [cmake](http://cmake.org) - generate build files
  * vckgp -
  * vulkan - 
  * vulkanSceneGraph -
- * Imgui -
- * GLSL -
+ * Imgui - [might be helpful](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html)
+ * GLSL - [info web](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))  
 
 ***
 
-
+TEST
 
 
 ## markdown 
@@ -77,6 +77,16 @@ can make line using asterisks dashes or underscore three times
 ***
 ---
 ___
+
+#### editing from konsole & Kate
+
+hello... **woah**
+
+#### using vsg example
+
+1. copy CMakeLists.txt and src/main.cpp into project-learn/example
+2. run CMake to create build system
+
 
 
 
